@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    padding-top: 11%;
+    background-color:black;
+}
+.cabecalho{
+    font-family: Arial;
+    color:#4169E1;
+    text-shadow: white;
+}
+#login{
+    font-family: Arial;
+    color:white;
+
+}
