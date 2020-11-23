@@ -1,0 +1,130 @@
+body{
+	margin:0px;
+	padding:0px;
+	font-family: Arial;
+	background-color: black;
+	/*background-repeat: no repeat;
+    background-size: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    background-image:url("../img/espaço.jpeg");*/
+}
+figcaption{
+	font-size:12px;
+	color:#FFFAFA;
+}
+h2{
+	font-size:40px;
+	text-shadow:2px 2px 2px #00CED1;
+	color:#FFFAFA;
+	}
+h3{
+	font-size:22px;
+}
+footer{
+	padding-top:20%;
+	text-align: center;
+	color: white;
+}
+
+			/*Cabeçalho*/
+.header{
+	text-align:center;
+	font-family: arial;
+}
+#slogan{
+	color:#4169E1;
+	font-size:18px;
+	padding:2%;
+	
+}
+.menu{
+	padding:20px 2px 2px 2px;
+	background-color:black;
+	overflow: hidden;
+}
+#navegacao{
+	text-align: center;
+	font-size:20px;
+	float:left;
+	color:#00CED1;
+	padding-left: 270px;
+}
+#logo{
+	float:left;
+	padding-left: 50px;
+	
+}
+#icone{
+	float:right;
+	padding-right:50px;
+}
+			/*Conteúdo*/
+.primeira{
+	color:white;
+	background-size: 100%;
+	text-align: center;
+	width: 100%;
+  	height: 330px;
+  	padding-top: 20%;
+  	
+}
+.imagemFundo{
+	background-image:url("../img/espaço.jpeg");
+	background-repeat: no repeat;
+	background-position: center;
+    background-attachment: fixed;
+	width:100%;
+	height:100%;
+}
+#botao{
+	background-color:#00FA9A;
+	color:#F5FFFA;
+	font-size:20px;
+	border:hidden;
+	border-radius:10px;
+	width: 20%;
+	height: 15%;
+  	padding:6px;
+
+}
+.segunda{
+	text-align:center;
+	width: 100%;
+  	height:50%;
+  	padding-top:20%;
+}
+#botaoCompra{
+	background-color:#00FA9A;
+	color:#FFFAFA;
+	font-size:20px;
+	border:hidden;
+	border-radius:10px;
+	width:40%;
+	height:10%;
+  	padding:6px;
+}
+#img{
+	width:100%;
+	height:25%;
+	padding-bottom:20%;
+}
+.terceira{
+	text-align: center;
+	width:100%;
+  	height:50%;
+	padding-top:20%;
+}
+.quarta{
+	text-align: center;
+	width:100%;
+	height:50%;
+	padding-top:20%;
+}
+#cliente{
+	border-radius: 60%;
+}
+a:link{
+	text-decoration: none;
+}
+
