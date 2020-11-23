@@ -1,2 +1,2 @@
 # Hard-Space
-Projeto
+Concetração das versões antigas das páginas
